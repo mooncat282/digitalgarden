@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/story-description-and-map/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/story-description-and-map/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
