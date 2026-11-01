@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-02T00:13:14.440+07:00","updated":"2026-11-02T01:05:50.948+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-02T00:13:14.440+07:00","updated":"2026-11-02T01:05:57.046+07:00","dg-note-properties":{}}
 ---
 
 
@@ -8,6 +8,7 @@ name: au-fantasy-house
 description: AU (not canon) "Fantasy House (and where to find them)" / phoenix AU: mr.K and W (kiwi), Ser Dustin, owls, elves, dragons, Rockstar Life, China Life
 sources: [chat]
 aliases: [Fantasy House, phoenix AU, mr.K and W, kiwi, Ser Dustin, Rockstar Life, China Life, Weiling and Kaili]
+
 ---
 
 AU ONLY. Not canon GERMZ; keep strictly separate from the dystopia canon. Mr.K is NOT Kyu (the "K" was chosen so people assume it is). 
