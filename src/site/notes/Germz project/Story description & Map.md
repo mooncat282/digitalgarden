@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/story-description-and-map/","tags":["gardenEntry"],"noteIcon":"","created":"2026-07-09T22:01:27.312+07:00","updated":"2026-11-02T01:09:25.111+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/story-description-and-map/","tags":["gardenEntry"],"noteIcon":"","created":"2026-07-09T22:01:27.312+07:00","updated":"2026-11-02T01:17:14.751+07:00","dg-note-properties":{}}
 ---
 
 
@@ -13,7 +13,7 @@ Tóm tắt truyện: [[Germz project/Main story/Story/Treatment\|Treatment]]
 👉**AU fantasy house**: như tên, thể loại fantasy. 
 Anh K được isekai sang thế giới fantasy bởi một con phượng hoàng cổ, anh bắt đầu cuộc sống ở thế giới này với một mục tiêu duy nhất là tìm lại được W, người anh yêu thương nhất, cũng bị con phượng hoàng bếch sang theo ước nguyện của anh K, nhưng xui sao là nó chỉ thích trú ngụ trong cơ thể của anh còn W chỉ mang linh hồn của người phàm trần. Thế là trong suốt cuộc đời bất tử tiếp theo của anh K là những năm tháng đi tìm lại vợ ở những kiếp người khác. 
 AU này chủ yếu là lore dump xàm xàm với mấy tranh nóng bỏng 🌚
-Lore dump: [AU fantasy house (phoenix)](AU%20fantasy%20house%20(phoenix).md)
+Lore dump: [[Germz project/AU/AU fantasy house - phoenix\|AU fantasy house - phoenix]]
 
 👉**AU between earth**: thể loại cũng fantasy nhưng là thiên thần ác quỷ đồ đó
 Đây là câu chuyện tình yêu super slowburn 6000 năm giữa thiên thần nghịch ngợm hồn nhiên Kiel và ác quỷ cám dỗ nhưng lỡ sa phải lưới tình với thiên thần ngốc nghếch kia, Will.
