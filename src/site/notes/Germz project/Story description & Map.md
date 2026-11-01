@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/story-description-and-map/","tags":["gardenEntry"],"noteIcon":"","created":"2026-07-09T22:01:27.312+07:00","updated":"2026-11-02T01:21:07.548+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/story-description-and-map/","tags":["gardenEntry"],"noteIcon":"","created":"2026-07-09T22:01:27.312+07:00","updated":"2026-11-02T01:35:20.075+07:00","dg-note-properties":{}}
 ---
 
 
@@ -19,7 +19,7 @@ Lore dump: [[Germz project/AU/AU fantasy house - phoenix\|AU fantasy house - pho
 Đây là câu chuyện tình yêu super slowburn 6000 năm giữa thiên thần nghịch ngợm hồn nhiên Kiel và ác quỷ cám dỗ nhưng lỡ sa phải lưới tình với thiên thần ngốc nghếch kia, Will.
 AU này có 3 seasons, mới chỉ viết tóm lược tiền truyện và season 1, khoảng 45k chữ, chưa proofread hoàn chỉnh, tạm thời đang trong giai đoạn nghỉ giữa hiệp đợi khi nào hứng lại thì viết tiếp season 2. Có vài tranh của Kiel nhưng đang bí design của Will nên chưa có illust couple official chính thức.
 Tóm tắt truyện:
-Before: [[Germz project/AU/Before _ part 1\|Before _ part 1]] | [[Germz project/AU/Before _ part 2\|Before _ part 2]]
+Before: [[Germz project/AU/Before _ part 1\|Before _ part 1]] | [[Germz project/AU/Before _ part 2\|part 2]]
 And now: [[Germz project/AU/And now _ season 1 _ part 1\|And now _ season 1 _ part 1]] | [[Germz project/AU/And now _ season 1 _ part 2\|And now _ season 1 _ part 2]]
 
 👉**AU thin wall**: thể loại modern bình thường.
