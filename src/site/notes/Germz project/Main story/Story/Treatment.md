@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/main-story/story/treatment/","noteIcon":"","created":"2026-10-31T14:41:59.682+07:00","updated":"2026-11-01T23:09:57.470+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/main-story/story/treatment/","noteIcon":"","created":"2026-10-31T14:41:59.682+07:00","updated":"2026-11-02T00:10:15.552+07:00","dg-note-properties":{}}
 ---
 
 
 [[Germz project/Main story/Story/Giới thiệu nhân vật\|Giới thiệu nhân vật]]
 ______________
-<span class="chu-mo">chữ cần mờ</span>
+
 # Opening
 
 Mở đầu là sự kiện [[Germz project/Main story/Story/Giới thiệu nhân vật#Kyu/Germz\|Germz/Kyu]] đã sát hại cả nhà [[Germz project/Main story/Story/Giới thiệu nhân vật#Jason Mathias\|Jason]] chỉ để lại mình cậu nhóc. Jason lúc đó trong cơn tức giận đã *thề sẽ giết Germz để trả thù*. Germz sau khi nghe nó nói thì vì lí do nào đó đã ko giết thằng bé mà quyết định đem nó về và huấn luyện nó trở thành rip-off như mình.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/main-story/story/gioi-thieu-nhan-vat/","noteIcon":"","created":"2026-08-17T20:46:54.251+07:00","updated":"2026-11-01T23:05:12.811+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/main-story/story/gioi-thieu-nhan-vat/","noteIcon":"","created":"2026-08-17T20:46:54.251+07:00","updated":"2026-11-02T00:11:42.160+07:00","dg-note-properties":{}}
 ---
 
 
@@ -29,6 +29,8 @@ Legendary rip-off thuộc [[Germz project/Main story/Infodump/Các Phe phái und
 # Felix
 bạn thân thời đại học của Ronan
 
+<span class="chu-mo">
+
 # Wilhelm, Wilhelm Adlercreuz von Valdsberg
 Friherre (Baron), Thụy Điển
 
@@ -46,3 +48,4 @@ The carer
 
 # The girl
 The girl
+</span>
