@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-17T20:46:22.349+07:00","updated":"2026-11-20T00:15:58.680+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-17T20:46:22.349+07:00","updated":"2026-11-20T00:42:32.213+07:00","dg-note-properties":{}}
 ---
 
 
-description: AU (not canon) "Fantasy House (and where to find them)" / phoenix AU: mr.K and W (kiwi), Ser Dustin, owls, elves, dragons sources: \[chat\] aliases: \[Fantasy House, phoenix AU, mr.K and W, kiwi, Ser Dustin, Rockstar Life, China Life, Weiling and Kaili\]
+description: AU (not canon) "Fantasy House (and where to find them)" / phoenix AU
+sources: \[chat\] 
+aliases: \[Fantasy House, phoenix AU, mr.K and W, kiwi, Ser Dustin, Rockstar Life, China Life, Weiling and Kaili\]
 
 AU ONLY. Not canon GERMZ; keep strictly separate from the dystopia canon. Mr.K is NOT Kyu (the "K" was chosen so people assume it is).
 
@@ -35,14 +37,6 @@ AU ONLY. Not canon GERMZ; keep strictly separate from the dystopia canon. Mr.K i
 
 Total: 12 children.
 
-# Phoenix Powers, Luck & Karma
-
-- \[stated\] The phoenix's luck makes them extremely good at business and financial matters. Money is the best proof of this luck.  
-- \[stated\] If a phoenix enters politics (like Dustin), they will easily dominate that field.  
-- \[stated\] "Luck" is a circle. If a phoenix does something bad, it will eventually come back to them, and they cannot blame anyone else, because a phoenix is literally karma itself.  
-- \[stated\] Mr.K's will is stronger than any of his children's. If they ever needed to go into battle against Mr.K, they would lose.  
-- \[stated\] Every phoenix reburns now and then, not just mr.K. Reburn is burn and return to normal without full regression. Reborn is the same, but full regression to toddler.
-
 # Mr.K
 
 ## Appearance, Nature & Habits
@@ -54,7 +48,8 @@ Total: 12 children.
 - Mr.K's fastest speed is Mach 3\.  
 - Mr.K is a Disney princess type: he talks to animals and does small magic tricks.
 
-![](/img/user/Library/portrait%20k-glazed-intensity-15-V1.png)
+![portrait k-glazed-intensity-15-V1.png](/img/user/Library/portrait%20k-glazed-intensity-15-V1.png)
+
 ## History & Temperament
 
 - \[stated\] Early on he was fiery and behaved like a human with power he did not yet understand: fought in many wars (hence "Ser"), intentionally burned villages, played a big role in human politics to marry W. He grew more peaceful over time as W reincarnated again and again.  
@@ -86,12 +81,12 @@ Total: 12 children.
 - The bird deliberately picked the right time — when he had no other way.  
 - If the bird had tried to take him in the middle of his life, Mr.K would have fought back ("he will kick the phoenix butt").  
 - **Mr.K was also a dad/mom before** — in his original life, before any of this.
-- His **first spawn point in this world was inside a volcano** — the True Phoenix just casually left him there.
-- Because the spawn was in the volcano and only his body could withstand it, Mr.K **woke up completely naked** with nothing to cover himself, and walked out that way.
--  The bird **did remember the clothes in the last minute** — and just shrugged and released him into the wild anyway.
-- When Mr.K later asked about it, the bird simply said **"i forgot 🐦‍🔥"** — and that's when Mr.K knew the bird is a moron.
-- Volcano was **far from human settlements**, so naked-exit situation caused no public embarrassment.
-- His hair is normally **flowy/fluffy**, but when he soaks in lava it **flows down like lava itself**. That's the **only time his hair isn't fluffy**.
+- His first spawn point in this world was inside a volcano — the True Phoenix just casually left him there.
+- Because the spawn was in the volcano and only his body could withstand it, Mr.K woke up completely naked with nothing to cover himself, and walked out that way.
+-  The bird did remember the clothes in the last minute — and just shrugged and released him into the wild anyway.
+- When Mr.K later asked about it, the bird simply said "i forgot 🐦‍🔥" — and that's when Mr.K knew the bird is a moron.
+- Volcano was far from human settlements, so naked-exit situation caused no public embarrassment.
+- His hair is normally flowy/fluffy, but when he soaks in lava it flows down like lava itself. That's the only time his hair isn't fluffy.
 
 
 # W
@@ -172,8 +167,8 @@ Total: 12 children.
 - When they find out Mr.K can change gender and stay male when W wasn't around, they're shocked.
 
 ## Phoenix Family Lava Facts
--  All the children **can soak in lava like a swimming pool** — it's purely a matter of personal preference.
-- Phoenixes can **consume all the toxic gas in a volcano** — a fire bird perk that **does not enhance anything**. It's just a thing they can do.
+-  All the children can soak in lava like a swimming pool — it's purely a matter of personal preference.
+- Phoenixes can consume all the toxic gas in a volcano — a fire bird perk that does not enhance anything. It's just a thing they can do.
 - Only phoenixes can enter lava (unless other species use magic). Lava form makes them **"10x erotic"** — their spouses would be devastated knowing what they miss. 💔
 
 ## Descendants 
@@ -192,7 +187,7 @@ Total: 12 children.
 
 ### Sons
 
-![](/img/user/Library/children_M.png)
+![children_M.png](/img/user/Library/children_M.png)
 
 **Hassan**
 
@@ -223,7 +218,7 @@ Total: 12 children.
 
 ### Daughters
 
-![](/img/user/Library/children_D.png)
+![children_D.png](/img/user/Library/children_D.png)
 
 **Serena**
 
@@ -267,6 +262,28 @@ Total: 12 children.
 - \[stated\] Many entities were silently entertained by kiwi, not just the phoenix inside mr.K's head.  
 - \[stated\] The phoenix watches like it's eating popcorn: "damn this is good shit 🍿🐦‍🔥". The phoenix is just a silly bird uwu.
 
+## Phoenix Powers, Luck & Karma
+
+- \[stated\] The phoenix's luck makes them extremely good at business and financial matters. Money is the best proof of this luck.  
+- \[stated\] If a phoenix enters politics (like Dustin), they will easily dominate that field.  
+- \[stated\] "Luck" is a circle. If a phoenix does something bad, it will eventually come back to them, and they cannot blame anyone else, because a phoenix is literally karma itself.  
+- \[stated\] Mr.K's will is stronger than any of his children's. If they ever needed to go into battle against Mr.K, they would lose.  
+- \[stated\] Every phoenix reburns now and then, not just mr.K. Reburn is burn and return to normal without full regression. Reborn is the same, but full regression to toddler.
+
+## True Phoenix
+
+- There used to be many kinds of phoenix in this world — many regions had their own luck fire bird. They were not rare.  
+- At the beginning, the phoenix did NOT represent karma itself.  
+- The phoenix we know consumed its siblings in a circle of fire, ash, and rebirth, over and over, to become the one true phoenix — the strongest, ascending into godhood.  
+- The bird's own casual phrasing of the event would be "i ate them" rather than "consumed."  
+- Before Mr.K came to this world, it was a lot more brutal than it is now.  
+- The True Phoenix already destroyed **Rome as a concept** because it didn't like it ("uwu bird indeed").  
+- The Fenghuang's "welcome presence" comment was already hinting at how dangerous the True Phoenix is — everyone took it as a joke.
+-  Its motto: "with great power comes with no responsibility 🌝"
+- It's the only audience in the front row with full uncensored viewing of everything — the rest of us just crumble. (🐦‍🔥 yummy)
+-  For *those* scenes specifically, it knows to stay silent and eat its popcorn quietly for the best viewing experience.
+- It's actually not that talkative overall — sometimes Mr.K forgets it exists entirely, asks, and it just goes "ehehe im rewatching season 1 🐦‍🔥"
+
 ## Maturity & Lifespan
 
 - \[stated\] Longer-lived races mature slower, but Mr.K doesn't because he used to be human and lives with a human spouse—he doesn't need 50 years to be a teenager despite being immortal.  
@@ -309,20 +326,6 @@ Total: 12 children.
 - The owls are a real ancient aristocracy that predates Mr.K and holds forgotten knowledge. They were only a few before he arrived and are now a whole lineage serving the phoenix. They keep nothing from him.  
 - Interracial Council: tiefling king is a permanent member of the council because of his ability to keep his memories. He goes to meetings in his free time and sometimes complains to Ser Dustin about his dad.
 
-## True Phoenix
-
-- There used to be many kinds of phoenix in this world — many regions had their own luck fire bird. They were not rare.  
-- At the beginning, the phoenix did NOT represent karma itself.  
-- The phoenix we know consumed its siblings in a circle of fire, ash, and rebirth, over and over, to become the one true phoenix — the strongest, ascending into godhood.  
-- The bird's own casual phrasing of the event would be "i ate them" rather than "consumed."  
-- Before Mr.K came to this world, it was a lot more brutal than it is now.  
-- The True Phoenix already destroyed **Rome as a concept** because it didn't like it ("uwu bird indeed").  
-- The Fenghuang's "welcome presence" comment was already hinting at how dangerous the True Phoenix is — everyone took it as a joke.
--  Its motto: **"with great power comes with no responsibility 🌝"**
-- It's the **only audience in the front row with full uncensored viewing** of everything — the rest of us just crumble. (🐦‍🔥 yummy)
--  For *those* scenes specifically, it knows to **stay silent and eat its popcorn quietly** for the best viewing experience.
-- It's actually **not that talkative overall** — sometimes Mr.K forgets it exists entirely, asks, and it just goes **"ehehe im rewatching season 1 🐦‍🔥"**
-
 ## World & Races
 
 - Humans are the weakest intelligent species in that world. Their only real strong point is that they reproduce a lot ("and that's a stretch").  
@@ -337,13 +340,13 @@ Total: 12 children.
 - The dragonborn came from that island. Island resources are limited, so they often need IC support.
 - Giant turtles live near the island.
 - A dragon riding on top of a giant turtle is extra funny. 🐒
-- Mr.K finds out about things (the island, the world) simply by **flying over the world once per century**. Mr.K has a favorite volcano resort. The volcano resort is **not a secret from W** — he just doesn't bring her because obviously a human can't survive lava. She knows about it.
+- Mr.K finds out about things (the island, the world) simply by flying over the world once per century. Mr.K has a favorite volcano resort. The volcano resort is not a secret from W — he just doesn't bring her because obviously a human can't survive lava. She knows about it.
 
 ## Isekai Protagonists
 
 - Isekai protagonists keep appearing in this world, and they do not come from the same world as each other — multiple source worlds.  
 - A mystery lucky bird (Mr.K) points them toward the Tiefling King.  
-- On who summons them: the True Phoenix admitted to taking only about **half** of them — implying the other half come from elsewhere/another source (unspecified).
+- On who summons them: the True Phoenix admitted to taking only about **half** of them.
 
 # Lifetimes
 
@@ -421,9 +424,6 @@ Total: 12 children.
 - Dustin was a little embarrassed because he wasn't used to it yet and refused to be hugged, which made Mr.K a bit sad.  
 - W said: "dont worry my love, you can still hug me, i like hugging a lot 🌝 and doing other stuffs."  
 - Dustin actually missed the hugs too; he was just a little confused. He was still a kid and learned to accept it again.
-
-### W's Enthusiasm
-
 - W was really enthusiastic when Mr.K turned into a woman.  
 - W thought: "damn my wife was so hot how can i thought of marry another one before, i was so dumb 🐒 look at her 😤"
 
@@ -442,57 +442,46 @@ Total: 12 children.
 - Mr.K looked at little Dustin mischievously and said "sweetheart one day you have to wear it too 😈"  
 - Little Dustin was thunderstruck 🐒.
 
-### Servants' Reactions
-
 - The servants in their castle thought Mr.K was the most beautiful woman they ever seen (even though he was just their friendly male boss a few months ago).  
 - This sounds so weird; nobody outside their land is gonna believe them.
-
-### Dress Fitting Dialogue
-
 - Servants helping their boss wear the dress.  
-- Mr.K: "does this dress make my boobs looked bigger?"  
-- Servants: "indeed, my lady. But yours already big too."  
-- Mr.K: "it's so hard to breath 😮‍💨"  
-- Servants: "it's how it supposed to wear, my lord, i mean, my lady 🤭"
-
-### Hair Styling
+Mr.K: "does this dress make my boobs looked bigger?"  
+Servants: "indeed, my lady. But yours already big too."  
+Mr.K: "it's so hard to breath 😮‍💨"  
+Servants: "it's how it supposed to wear, my lord, i mean, my lady 🤭"
 
 - Mr.K always had beautiful long silky red hair before, but he didn't style it much.  
 - Now the maids had the chance to style it for her 😈 (they been dreaming of this).
-
-### Height
-
 - Even in female form, Mr.K is still very tall.  
 - She's taller than most of them, even taller than W if W didn't wear heels.
+
+
 ___
 ## C2 — Middle East Royalty (1400s)
  
 - After W's first life ended (old age), Mr.K was consumed by grief for 80+ years until Dustin found him and said something like "you know dad, maybe mother was already reincarnated somewhere." Mr.K went "oh shit you're right" and bursted out to find her.
- 
 - W was found in his 40s, the younger brother of the sultan. His wife had recently passed; he had not remarried.
- 
 - Mr.K got too emotional to think, turned female, went to town. W saw the beautiful red-haired lady and called her to talk — they could not understand each other (different languages). He took her back to the castle anyway (both were too over the moon to care 🐒).
- 
 - Passionate night. Next morning he spoke, she didn't understand — he gave her a pouch of coins and left. She finally understood what he thought. She was enraged and wanted to strangle him, but decided no — she had to make him fall for her first, look at his defeated dumb face, show him who's the boss 👿😈
 
 (To be continued )
 
 
 ### After marriged
-- **Mood-based naming system:** When wife is in a good mood: "honey, sweetheart, baby, the love of my life" 🥰😘🤭💕💋 — she randomly comes to his place, kisses him in front of everyone, makes it very hard for him to focus on business. When she's in a bad mood: "that guy over there," "some guy named W," "I never met this man in my life" 😒🚶🙄🫥🤌 — and all of his business depends on how fast he can soothe her. His verdict: "I love my wife 🐒"
-- **"Where did your wife come from?"** → W's official answer: "I have no idea too 🐒" — he cannot say he thought she was a prostitute, or she will make his day ruined 🤌 (state secret #1 of the marriage).
+- Mood-based naming system: When wife is in a good mood: "honey, sweetheart, baby, the love of my life" 🥰😘🤭💕💋 — she randomly comes to his place, kisses him in front of everyone, makes it very hard for him to focus on business. When she's in a bad mood: "that guy over there," "some guy named W," "I never met this man in my life" 😒🚶🙄🫥🤌 — and all of his business depends on how fast he can soothe her. His verdict: "I love my wife 🐒"
+- "Where did your wife come from?" → W's official answer: "I have no idea too 🐒" — he cannot say he thought she was a prostitute, or she will make his day ruined 🤌 (state secret #1 of the marriage).
 
 ### Hassan (Baby Era, C2)
-- **Tactical baby unit:** W sends baby Hassan to tell his mom that father missed her 🥺. The diplomatic envoy with a 100% success rate — Mr.K crumbles instantly.
-- **Hassan's earliest memory / core betrayal memory:** he was being fed peacefully by his mom when his father came in, took him from her hands, gave him to the maid, and stole his mom from him like that 😠. He remembers it clearly to this day.
-- **Hassan was very clingy to his mom too 🐒** — mutual warfare: he'd tighten his grip on mom whenever dad approached, activated maximum cuteness. The "stolen mom" incident was dad finally winning one round.
-- **W's territorial line:** "You're lucky that you're my son, or else I would never let other men touch my wife like that 🙎" — Hassan, age 1, comprehension full: **"BET!"**
+- Tactical baby unit: W sends baby Hassan to tell his mom that father missed her 🥺. The diplomatic envoy with a 100% success rate — Mr.K crumbles instantly.
+- Hassan's earliest memory / core betrayal memory: he was being fed peacefully by his mom when his father came in, took him from her hands, gave him to the maid, and stole his mom from him like that 😠. He remembers it clearly to this day.
+- Hassan was very clingy to his mom too 🐒 — mutual warfare: he'd tighten his grip on mom whenever dad approached, activated maximum cuteness. The "stolen mom" incident was dad finally winning one round.
+- W's territorial line: "You're lucky that you're my son, or else I would never let other men touch my wife like that 🙎" — Hassan, age 1, comprehension full: "BET!"
 
 ### Hassan (Adult, Present-Day)
-- Hassan still thinks his mom is the **most beautiful woman he's ever seen, till this day** — but he will NOT be saying that to his wife 👀
-- He learned from his father: **always put your wife above everything else** 🐧👏
-- He lets his dad in despite hating babysitting his siblings **because Mr.K makes the best pie and soup.** Wife: "I can make it better for you." Hassan: "...sure honey" (no you can't 🐒)
-- **Hassan is still a prince** — he has servants who cook for him. The royal kitchens still lose to dad's pie.
+- Hassan still thinks his mom is the most beautiful woman he's ever seen, till this day — but he will NOT be saying that to his wife 👀
+- He learned from his father: always put your wife above everything else 🐧👏
+- He lets his dad in despite hating babysitting his siblings because Mr.K makes the best pie and soup. Wife: "I can make it better for you." Hassan: "...sure honey" (no you can't 🐒)
+- Hassan is still a prince — he has servants who cook for him. The royal kitchens still lose to dad's pie.
 
 ___
 ## C3: Japan Arc (1500s Sengoku Era) (TBD)
@@ -515,17 +504,11 @@ ___
 - Names: W = Wilfreda (female this life). Mr.K = Katherine, "Kathy."
  
 - W was daughter of the head of the Dutch East India Company. Father often absent; hired many maids/nannies. Mr.K was one of them — became main nanny not by plan, but baby W was too cute to resist 🐒
- 
 - Mr.K considers this her biggest mistake: she can no longer see W as a lover, more like a child. W sees her more as a mother than her own mother. Every night scared/lonely W crawls into the nanny's room to sleep with her. Bond too deep for either to leave. Mr.K swears she will never meet W this young again (origin of the reburn age-matching rule).
- 
 - W comes of marriage age; father arranges suitors. W (nice child) meets them all, declines them all — shallow, bad attitude, ugly 🐒. She reports every suitor to Katherine nightly while cuddling, head pats till sleep.
- 
 - Tutor teaches her lady-stuff; the nanny teaches her everything only boys were allowed to learn, and covers for her when she hides from class.
- 
 - W still wants to marry a smart handsome boy someday — not for money like father wants — they have to be perfect. Like her nanny. To catch her eye 👀
- 
 - As she gets a bit older, the thoughts begin during cuddles: "wow Kathy smells so good and so soft; wow her breasts are so full, I wonder when mine will get like that; wow her voice is so nice I wish I could listen every night like this..." — never doubts herself even once.
- 
 - One day W accidentally walks in on the nanny bathing — first gay panic of all time 🐒🐒🐒
  
 
@@ -533,197 +516,189 @@ ___
 ## C5 — French Revolution (late 1700s-1800s)
  
 - W: a noble who supports people's equality and fought in the war. Mr.K found him while he was leading the revolution, joined, supported him. Fought together — some kind of bromance 🐒.
- 
 - Nobles who disliked equality put W in jail. Mr.K came to rescue him; W refused — he had to prove they could fight in peace. W stayed; Mr.K had to lead the people on W's behalf. (They did have sex in jail tho 🌝)
- 
 - On the important day Mr.K rescued him out and they fought together until the king was down 🐧 (author does not know much about the French Revolution lmao 🐒 — aesthetic-first as per overview.) 
- 
 - Mr.K really wanted to tell W he was the lucky bird (would make everything easier) but W's ideological ego would be shattered by the truth. So Mr.K kept it secret and just slightly buffed the revolution — quicker, more peaceful — while deliberately leaving some hardship so it didn't look suspicious. 🐒
- 
 - Colette was conceived about a year after Bastille Day.
- 
 - The cover trick: Mr.K told W that his sister was doing the pregnancy for them ("random bs go 🐒" — there is no sister). Then he flew back to the owl village to lay the egg (this is the pregnancy-delivery trip — baby Mr. Liu era; say hello to baby Mr. Liu 🌝).
- 
 - Mr.K returned after a year or so with the child, disguised as his sister's child with W. So: W knew Colette was his child. W did not know there was no sister. On paper nobody knew she was W's child — everyone thought W and Mr.K were simply kind to take in the sister's child when she left. W raised her as his real child.
- 
 - When Colette was about 6-7 and understanding enough, Mr.K told her the truth — and told her to keep it secret from everybody, even her father. Bright mischievous child kept the secret, but loved to tease her real dad/mom about it.
- 
 - Occasionally Mr.K turned female when she asked to see — then she'd pretend to run to W to tell him 🐒 Bad chicken indeed.
+
 ___
 ## C6: Rockstar Life (Toxic Life, 1950s-60s America)
 
 ### Rockstar Life — General & Background
 
-- · Mr.K was chilling in Europe and wasn’t in a rush to find W because, after several lifetimes, he knew the universe would let him see W at the right time.  
-- · He heard a rock song on the radio. Each W has a different voice and appearance, but Mr.K’s instinct immediately knew it was his spouse.  
-- · He happily flew to the US to find W.  
-- · When he got there, W was arrested for disorderly conduct. Mr.K had just met this man for five minutes and couldn’t bail him out right away without looking suspicious.  
-- · W’s manager (a woman) came quickly and got him out. It seemed this was ordinary for them.  
-- · Mr.K held back and decided to observe for a while.  
-- · This W was very different from past Ws: reckless, arrogant, sex-driven, and abusing drugs at a very young age.  
-- · Mr.K couldn’t watch anymore and volunteered to be W’s bodyguard without taking money, using his charm on the manager.  
-- · W hated the idea and said he didn’t need a bodyguard. He felt Mr.K was bossing him around and not letting him do what he wanted.  
-- · The worst part for W: he couldn’t fire Mr.K because he hadn’t paid him anything in the first place.  
-- · W’s behavior was typical for a 60s rockstar—famous and broken.  
-- · Mr.K tried to guide W back to a more appropriate life, but it was very hard when everyone around W encouraged the behavior: bandmates enticed him, the company hid his crimes, and fans loved him for it.  
-- · To W, there was nothing wrong with his lifestyle. All he saw was his out-of-nowhere bodyguard being dogmatic.  
-- · When W was high or drunk, he shouted at Mr.K and even threw things at him.  
-- · It didn’t affect Mr.K much. People around W were quite scared of Mr.K because of how imposing he was—except W, who was not clear-headed and because Mr.K never raised his voice with him.  
-- · Mr.K was wearing down. He was always there to pick up W after parties, bring his dreadful self home, and take care of him afterward.  
-- · The manager went from “I do not know this man but he seems nice so I let him bodyguard” to calling Mr.K and crying over the phone to bring W back.  
-- · Mr.K became more like a pseudo-manager for W, and W hated it even more.  
-- · W didn’t appreciate what Mr.K did for him, saying Mr.K was only doing it because he wanted to be near a famous rockstar like him (which was actually kinda true, but in a different way).  
-- · Mr.K asked W if he ever looked around after partying to see who else was still there for him. It made W even angrier because deep down he knew what it was actually like.
+- Mr.K was chilling in Europe and wasn’t in a rush to find W because, after several lifetimes, he knew the universe would let him see W at the right time.  
+- He heard a rock song on the radio. Each W has a different voice and appearance, but Mr.K’s instinct immediately knew it was his spouse.  
+- He happily flew to the US to find W.  
+- When he got there, W was arrested for disorderly conduct. Mr.K had just met this man for five minutes and couldn’t bail him out right away without looking suspicious.  
+- W’s manager (a woman) came quickly and got him out. It seemed this was ordinary for them.  
+- Mr.K held back and decided to observe for a while.  
+- This W was very different from past Ws: reckless, arrogant, sex-driven, and abusing drugs at a very young age.  
+- Mr.K couldn’t watch anymore and volunteered to be W’s bodyguard without taking money, using his charm on the manager.  
+- W hated the idea and said he didn’t need a bodyguard. He felt Mr.K was bossing him around and not letting him do what he wanted.  
+- The worst part for W: he couldn’t fire Mr.K because he hadn’t paid him anything in the first place.  
+- W’s behavior was typical for a 60s rockstar—famous and broken.  
+- Mr.K tried to guide W back to a more appropriate life, but it was very hard when everyone around W encouraged the behavior: bandmates enticed him, the company hid his crimes, and fans loved him for it.  
+- To W, there was nothing wrong with his lifestyle. All he saw was his out-of-nowhere bodyguard being dogmatic.  
+- When W was high or drunk, he shouted at Mr.K and even threw things at him.  
+- It didn’t affect Mr.K much. People around W were quite scared of Mr.K because of how imposing he was—except W, who was not clear-headed and because Mr.K never raised his voice with him.  
+- Mr.K was wearing down. He was always there to pick up W after parties, bring his dreadful self home, and take care of him afterward.  
+- The manager went from “I do not know this man but he seems nice so I let him bodyguard” to calling Mr.K and crying over the phone to bring W back.  
+- Mr.K became more like a pseudo-manager for W, and W hated it even more.  
+- W didn’t appreciate what Mr.K did for him, saying Mr.K was only doing it because he wanted to be near a famous rockstar like him (which was actually kinda true, but in a different way).  
+- Mr.K asked W if he ever looked around after partying to see who else was still there for him. It made W even angrier because deep down he knew what it was actually like.
 
 ### The Balcony Incident & Aftermath
 
-- · After months back and forth, their relationship wasn’t any better—maybe even worse. They argued a lot more.  
-- · The company silently let Mr.K involve himself in more of W’s activities, which made W even angrier when he found out.  
-- · W rebelliously dropped some shows just because he didn’t like them, causing a lot of money loss, but fans somehow loved it even more because it felt like freedom.  
-- · One day W had groupies with a fangirl group in a hotel (Mr.K was very opposed, but W didn’t care and forbade him to follow to his room).  
-- · Among the girls, one was madly in love with W and not in the right state of mind. When she saw him playing with another girl, she got super jealous and pushed him out of the railing along with her, thinking they would die together romantically.  
-- · Luckily, Mr.K was down below, heard the scream, and immediately flew up to save both of them.  
-- · W was so scared and speechless; the girl was crying like crazy.  
-- · They later called the manager and made a private settlement. The fact that Mr.K was a mythical creature was kept secret—only W, the girl, and the manager knew.  
-- · That’s when W found out Mr.K wasn’t just there for fun.
+- After months back and forth, their relationship wasn’t any better—maybe even worse. They argued a lot more.  
+- The company silently let Mr.K involve himself in more of W’s activities, which made W even angrier when he found out.  
+- W rebelliously dropped some shows just because he didn’t like them, causing a lot of money loss, but fans somehow loved it even more because it felt like freedom.  
+- One day W had groupies with a fangirl group in a hotel (Mr.K was very opposed, but W didn’t care and forbade him to follow to his room).  
+- Among the girls, one was madly in love with W and not in the right state of mind. When she saw him playing with another girl, she got super jealous and pushed him out of the railing along with her, thinking they would die together romantically.  
+- Luckily, Mr.K was down below, heard the scream, and immediately flew up to save both of them.  
+- W was so scared and speechless; the girl was crying like crazy.  
+- They later called the manager and made a private settlement. The fact that Mr.K was a mythical creature was kept secret—only W, the girl, and the manager knew.  
+- That’s when W found out Mr.K wasn’t just there for fun.
 
 ### Bird Questions & First Peaceful Conversation
 
-- · After that, W took a few days to rest and process what happened (he needed time to get out of the drugs).  
-- · When he went back to the studio, he looked at Mr.K very suspiciously and intensely. Mr.K internally thought, “Damn, just ask already, this is so uncomfortable.”  
-- · After the meeting, W asked Mr.K questions: · W: “So, you’re a bird?” · Mr.K: “Yes, I am.” · W: “What kind of bird?” · Mr.K: “A fire bird.” · W: “Why do you look like a human?” · Mr.K: “Because I’m a magic bird ✨.”  
-- · He asked a lot of dumbass questions, but it was the first time in a while they had a conversation without arguing or shouting—a bit of fresh air.  
-- · He didn’t really say thank you to Mr.K, but their relationship was less tense than before.  
-- · The manager had a private conversation with Mr.K about his position with W. Things were a lot smoother when talking to someone with sense.  
-- · Mr.K still did what he did, but more officially—he had a badge now. Kinda funny.
+- After that, W took a few days to rest and process what happened (he needed time to get out of the drugs).  
+- When he went back to the studio, he looked at Mr.K very suspiciously and intensely. Mr.K internally thought, “Damn, just ask already, this is so uncomfortable.”  
+- After the meeting, W asked Mr.K questions: · W: “So, you’re a bird?” · Mr.K: “Yes, I am.” · W: “What kind of bird?” · Mr.K: “A fire bird.” · W: “Why do you look like a human?” · Mr.K: “Because I’m a magic bird ✨.”  
+- He asked a lot of dumbass questions, but it was the first time in a while they had a conversation without arguing or shouting—a bit of fresh air.  
+- He didn’t really say thank you to Mr.K, but their relationship was less tense than before. 
+- The manager had a private conversation with Mr.K about his position with W. Things were a lot smoother when talking to someone with sense.  
+- Mr.K still did what he did, but more officially—he had a badge now. Kinda funny.
 
 ### Flying Tour, Rehab Disguise & Trolling
 
-- · Sometimes W asked for random things, like asking Mr.K to fly him to the sky.  
-- · Mr.K didn’t let it be easy: he said if W could stop using drugs for a week, he would take him for a tour (he didn’t want W to throw up on him while flying).  
-- · W suspiciously thought this was Mr.K’s way of forcing him into rehab, but he couldn’t prove it, and he really wanted to fly. So he grudgingly did what Mr.K said just to prove he could do it.  
-- · Mr.K kept his word and flew him around Hollywood and put him on top of the world. They had a brief conversation—it was nice.  
-- · Then W tried to be a smartass, and Mr.K trolled him by pretending to leave him there. W almost cried like a baby. Mr.K had to apologize and flew him back home.  
-- · W made Mr.K promise he would never tell anyone about that.
+- Sometimes W asked for random things, like asking Mr.K to fly him to the sky.  
+- Mr.K didn’t let it be easy: he said if W could stop using drugs for a week, he would take him for a tour (he didn’t want W to throw up on him while flying).  
+- W suspiciously thought this was Mr.K’s way of forcing him into rehab, but he couldn’t prove it, and he really wanted to fly. So he grudgingly did what Mr.K said just to prove he could do it.  
+- Mr.K kept his word and flew him around Hollywood and put him on top of the world. They had a brief conversation—it was nice.  
+- Then W tried to be a smartass, and Mr.K trolled him by pretending to leave him there. W almost cried like a baby. Mr.K had to apologize and flew him back home.  
+- W made Mr.K promise he would never tell anyone about that.
 
 ### Feather Theft & Tiefling King Cameo
 
-- · W tried to pick a feather from Mr.K’s wing because he wanted it, without asking for permission. Mr.K scolded him a bit, and they fought again. In the end, Mr.K let him have it but was very careful about it the next time.  
-- · One time, another big music company wanted to collaborate with W. Mr.K recognized his dear old friend the Tiefling King ^^.  
+- W tried to pick a feather from Mr.K’s wing because he wanted it, without asking for permission. Mr.K scolded him a bit, and they fought again. In the end, Mr.K let him have it but was very careful about it the next time.  
+- One time, another big music company wanted to collaborate with W. Mr.K recognized his dear old friend the Tiefling King ^^.  
   - Mr.K saw him and said, "oh my old friend where have you been ^^". The King yelled, "security get this man out of my sight 💢". Mr.K replied, "how can you treat your old friend like that 🥺".  
-- · Mr.K went there with W, said hi to the Tiefling King (now the big boss of the company), and used his connection to win a big deal for W.  
-- · All this happened while W sat there bewildered, not knowing what was happening—but he damn well knew this bodyguard was not like what he seemed.
+- Mr.K went there with W, said hi to the Tiefling King (now the big boss of the company), and used his connection to win a big deal for W.  
+- All this happened while W sat there bewildered, not knowing what was happening—but he damn well knew this bodyguard was not like what he seemed.
 
 ### W’s Lifestyle & STDs
 
-- · W still couldn’t fully get out of the lifestyle because the environment around him enabled it. One or two times doing good and he could go right back.  
-- · The only improvement was that he stopped doing groupies because he was scared shitless of those crazy fangirls.  
-- · But he still had urges. Ironically, Mr.K was a bit worried W might have an STD from his earlier lifestyle. After Mr.K urged him to get a check-up, W was clean (thank the universe).
+- W still couldn’t fully get out of the lifestyle because the environment around him enabled it. One or two times doing good and he could go right back.  
+- The only improvement was that he stopped doing groupies because he was scared shitless of those crazy fangirls.  
+- But he still had urges. Ironically, Mr.K was a bit worried W might have an STD from his earlier lifestyle. After Mr.K urged him to get a check-up, W was clean (thank the universe).
 
 ### Colette’s Visit & W’s Jealousy
 
-- · One day, while on tour, Mr.K met his Colette again. She heard he was there and came for a visit (also to see her next-life parent; this was her first time experiencing it, so it was very exciting).  
-- · W was on stage performing but saw Mr.K talking to some girl. It made him enraged, and he sang even louder. The crowd was hyped as hell. Mr.K took Colette somewhere more private.  
-- · Mr.K told Colette about their current situation and how it didn’t look bright; it was better if she didn’t meet W now.  
-- · The show ended briefly, and W immediately ran to where they were. Colette said hi to him and then left first. W asked Mr.K who that was in a very strange voice.  
-- · Mr.K told him it was his daughter. W was flabbergasted that Mr.K somehow already had a daughter despite how he looks (W didn’t even know Mr.K had seven other children).
+- One day, while on tour, Mr.K met his Colette again. She heard he was there and came for a visit (also to see her next-life parent; this was her first time experiencing it, so it was very exciting).  
+- W was on stage performing but saw Mr.K talking to some girl. It made him enraged, and he sang even louder. The crowd was hyped as hell. Mr.K took Colette somewhere more private.  
+- Mr.K told Colette about their current situation and how it didn’t look bright; it was better if she didn’t meet W now.  
+- The show ended briefly, and W immediately ran to where they were. Colette said hi to him and then left first. W asked Mr.K who that was in a very strange voice.  
+- Mr.K told him it was his daughter. W was flabbergasted that Mr.K somehow already had a daughter despite how he looks (W didn’t even know Mr.K had seven other children).
 
 ### The Walk & Revelation
 
-- · They went for a walk. · W: “How old are you?” · Mr.K: “I’m as old as the earth.” · W: “Quit messing around 😑.” · Mr.K: “Oh no, you caught me 👀.” · W: “So that really is your daughter?” · Mr.K: “Yes, isn’t she wonderful?” · W: “You’re married?” · Mr.K: “...Yes, I was.” · W: “What happened?” · Mr.K: “As time happens to life, every human eventually has to go.” · W: “...Why are you doing this?” · Mr.K: “Doing what?” · W: “Staying here, being with me even though I said I don’t want you.” · Mr.K: “...” · W: stops walking “Are we something? Did I use to be your spouse?” · Mr.K turned back to look him straight in the eye: “...Yes, you did.” · W was silent for a while: “Then why didn’t you say anything?” · Mr.K: “If I said it, would you listen to me? smile I’m not trying to force you to love me back. Right now I just want you to be the best of yourself, for your own sake.” · W: “...Stop talking like you know me. You know nothing about me. That was the creepiest thing I’ve ever heard. You’re also just a stalker who thinks you’re so high and mighty. Stop following me anymore\!”  
-- · Then W ran away. Mr.K tried to chase him but stopped.
+- They went for a walk. 
+W: “How old are you?” 
+Mr.K: “I’m as old as the earth.” 
+W: “Quit messing around 😑.” 
+Mr.K: “Oh no, you caught me 👀.” 
+W: “So that really is your daughter?” 
+Mr.K: “Yes, isn’t she wonderful?” 
+ W: “You’re married?” 
+Mr.K: “...Yes, I was.” 
+W: “What happened?” 
+Mr.K: “As time happens to life, every human eventually has to go.” 
+W: “...Why are you doing this?” 
+Mr.K: “Doing what?” 
+ W: “Staying here, being with me even though I said I don’t want you.” 
+Mr.K: “...” 
+W: stops walking “Are we something? Did I use to be your spouse?” 
+Mr.K *turned back to look him straight in the eye*: “...Yes, you did.” 
+W was silent for a while: “Then why didn’t you say anything?” 
+Mr.K: “If I said it, would you listen to me? *smile* I’m not trying to force you to love me back. Right now I just want you to be the best of yourself, for your own sake.” 
+W: “...Stop talking like you know me. You know nothing about me. That was the creepiest thing I’ve ever heard. You’re also just a stalker who thinks you’re so high and mighty. Stop following me anymore\!”  
+- Then W ran away. Mr.K tried to chase him but stopped.
 
 ### Mr.K’s Internal State After the Walk
 
-- · At this point, Mr.K already knew there was no hope left for their relationship.  
-- · He started thinking that maybe he really was a creepy old man obsessed with one human soul over and over.  
-- · Maybe he would let go of W next life and find himself a peaceful way out.  
-- · But he didn’t leave yet—he still wanted closure with this life. He still wanted to see W get better.
+- At this point, Mr.K already knew there was no hope left for their relationship.  
+- He started thinking that maybe he really was a creepy old man obsessed with one human soul over and over.  
+- Maybe he would let go of W next life and find himself a peaceful way out.  
+- But he didn’t leave yet—he still wanted closure with this life. He still wanted to see W get better.
 
 ### After the Concert — The 8-Foot Standoff
 
-- · The manager asked if they were fighting again.  
-- · W was a bit weirder this time.  
-- · Mr.K said he’ll handle it.  
-- · W indeed didn’t want to meet him. He said he would call the police if Mr.K came near him.  
-- · Mr.K accepted all of W’s conditions except not being his bodyguard anymore, because he’s official now ✨ (he had a badge 🐒) and W still can’t fire him.  
-- · So now they stand far apart, like 8 feet. It was funny.  
-- · Even when W acted like that, he still shouted something like “I’m not gay” at Mr.K, like he wanted to prove something, even though nobody asked.  
-- · The manager thought maybe W was in a denial state.  
-- · Mr.K said, “Yes, I know. Could you please not go near this point? I was trying to do paperwork here with Ms. Manager and I don’t want to move.”
+- The manager asked if they were fighting again.  
+- W was a bit weirder this time.  
+- Mr.K said he’ll handle it.  
+- W indeed didn’t want to meet him. He said he would call the police if Mr.K came near him.  
+- Mr.K accepted all of W’s conditions except not being his bodyguard anymore, because he’s official now ✨ (he had a badge 🐒) and W still can’t fire him.  
+- So now they stand far apart, like 8 feet. It was funny.  
+- Even when W acted like that, he still shouted something like “I’m not gay” at Mr.K, like he wanted to prove something, even though nobody asked.  
+- The manager thought maybe W was in a denial state.  
+- Mr.K said, “Yes, I know. Could you please not go near this point? I was trying to do paperwork here with Ms. Manager and I don’t want to move.”
 
 ### The Bandmates & The Instrument Smashing Plan
 
-- · W’s bandmates asked him what was going on between him and “you know who,” and W refused to answer.  
-- · The bandmates didn’t like Mr.K either.  
-- · They were planning a big instrument smashing on their next stage.  
-- · W hesitated. He wanted to join, but he remembered what Mr.K said, and he remembered the balcony incident. He was afraid this would lead to something out of control.  
-- · His bandmates called him a coward.  
-- · His ego was bigger than any of these, so he still decided to join.  
-- · They planned to do it at the big concert they just had a contract with (the Tiefling King’s).  
-- · Meanwhile, Mr.K was doing extra security for it because he can’t waste his connection with his old friend 😊✨.  
-- · The Tiefling King warned him about the recent rocker culture movement, and that W already had a long list of black history in the industry. · Mr.K: “How about I bless you instead 🥺” · Tiefling King: “Fuck off 💢”
+- W’s bandmates asked him what was going on between him and “you know who,” and W refused to answer.  
+- The bandmates didn’t like Mr.K either.  
+- They were planning a big instrument smashing on their next stage.  
+- W hesitated. He wanted to join, but he remembered what Mr.K said, and he remembered the balcony incident. He was afraid this would lead to something out of control.  
+- His bandmates called him a coward.  
+- His ego was bigger than any of these, so he still decided to join.  
+- They planned to do it at the big concert they just had a contract with (the Tiefling King’s).  
+- Meanwhile, Mr.K was doing extra security for it because he can’t waste his connection with his old friend 😊✨.  
+- The Tiefling King warned him about the recent rocker culture movement, and that W already had a long list of black history in the industry. · Mr.K: “How about I bless you instead 🥺” · Tiefling King: “Fuck off 💢”
 
 ### The Concert Day & The Last-Minute Change
 
-- · The concert day came. Everyone was busy preparing for the show, except the band themselves—they were busy with their own party schedule 🐒.  
-- · W watched Mr.K from afar, running around helping Ms. Manager and the support team.  
-- · W still hesitated. He went to Mr.K. Mr.K asked what he needed, and W just said “nothing.”  
-- · When the show nearly ended and they were about to do the smashing, suddenly a lot of mist was generated, lights were changed direction to outside, and fireworks shot everywhere, making the whole audience in awe and cheering a lot.  
-- · The show closed in a fantastical scene, but not at where the band was headed.  
-- · It turned out Mr.K had already felt something strange from the way W approached him and told the support team to change the plan at the last minute.  
-- · The bandmates were furious; they thought the bodyguard was playing them dirty.  
-- · But somehow W felt a strange relief.  
-- · He looked at Mr.K, and Mr.K looked back at him for a short moment, then left.
+- The concert day came. Everyone was busy preparing for the show, except the band themselves—they were busy with their own party schedule 🐒.  
+- W watched Mr.K from afar, running around helping Ms. Manager and the support team. 
+- W still hesitated. He went to Mr.K. Mr.K asked what he needed, and W just said “nothing.”  
+- When the show nearly ended and they were about to do the smashing, suddenly a lot of mist was generated, lights were changed direction to outside, and fireworks shot everywhere, making the whole audience in awe and cheering a lot.  
+- The show closed in a fantastical scene, but not at where the band was headed.  
+- It turned out Mr.K had already felt something strange from the way W approached him and told the support team to change the plan at the last minute.  
+- The bandmates were furious; they thought the bodyguard was playing them dirty.  
+- But somehow W felt a strange relief.  
+- He looked at Mr.K, and Mr.K looked back at him for a short moment, then left.
 
 ### After the Concert
 
-- · They didn’t talk about it at all.
+- They didn’t talk about it at all.
+- W didn’t follow Mr.K.
+- W went to the after-party with his bandmates.
+- He didn’t know what to say, so he did what he does best: alcohol and drugs.
+- They were high as fuck, and W passed out in the middle of it.
+- When W woke up, everywhere around him looked like a mess, with everyone lying around looking half dead.
+- Usually Mr.K would come pick him up by now, even though W had said many times that he didn’t want it.
+- Then W blurrily remembered that he had also forbidden Mr.K to come near him—so that was on him.
+- When W came near his bandmates, he realized that one man had stopped breathing.
+- W’s blood ran cold.
+- W couldn’t think of anyone else to call except Mr.K.
+- It turned out his bandmate had been drinking too much and using drugs, and overdosed.
+- Mr.K came, calmed W down, and took care of everything after that.
+- The news was on the TV; everyone talked about it.
+- W had to stay home for a checkup and rest after that.
 
-- · W didn’t follow Mr.K.
 
-- · W went to the after-party with his bandmates.
-
-- · He didn’t know what to say, so he did what he does best: alcohol and drugs.
-
-- · They were high as fuck, and W passed out in the middle of it.
-
-- · When W woke up, everywhere around him looked like a mess, with everyone lying around looking half dead.
-
-- · Usually Mr.K would come pick him up by now, even though W had said many times that he didn’t want it.
-
-- · Then W blurrily remembered that he had also forbidden Mr.K to come near him—so that was on him.
-
-- · When W came near his bandmates, he realized that one man had stopped breathing.
-
-- · W’s blood ran cold.
-
-- · W couldn’t think of anyone else to call except Mr.K.
-
-- · It turned out his bandmate had been drinking too much and using drugs, and overdosed.
-
-- · Mr.K came, calmed W down, and took care of everything after that.
-
-- · The news was on the TV; everyone talked about it.
-
-- · W had to stay home for a checkup and rest after that.
 
 - \[stated\] Mr.K stayed many years knowing this life was wasted with no hope for romance, but still guided W for his own sake.
-
 - \[stated\] When mr.K finally felt he could let go and left, W panicked, drove recklessly to find him, and got into a car crash. Mr.K had only left for an hour and had to come back to bring him to hospital.
-
 - \[stated\] After recovery, W made mr.K promise never to leave him again. Mr.K was tired and wanted a normal life without W, but promised anyway while quietly planning to leave in the next life.
-
 - \[stated\] They lived together for the rest of W's life with ups and downs; the promise was fulfilled.
-
 - \[stated\] Mr.K was very polite; never talked much about his phoenix side to W.
-
 - \[stated\] When living together, W sometimes asked about past lives; mr.K answered warmly but with bare minimum, nothing sparking interest.
-
 - \[stated\] W was paranoid (damaged from drugs/alcohol \+ abandonment issues), always feared mr.K would leave or was hiding something.
-
 - \[stated\] They didn't have children in this life; mr.K didn't transform and W didn't know about that ability.
-
 - \[stated\] W was very successful in his career throughout his life thanks to mr.K's help.
 
 ### W's Deal with Death
@@ -789,7 +764,7 @@ ___
 - \[stated\] Mr. Liu was a newborn baby owl 150 years ago when mr.K came back to the owl village for pregnancy delivery.  
 - \[stated\] Mr.K raised both her kid and the baby owl, letting them play together.  
 - \[stated\] Mr. Liu always thought he would serve mr.K's daughter when he grew up; never guessed he would serve as mr.K's foster parent later.  
-- \[stated\] Before mr.K went into his amnesia arc, he often teased the little owl about this.  
+- \[stated\] Before mr.K went into his amnesia arc, he often teased the little owl about this. 
 - \[stated\] The worst part: Mr. Liu can't fully put the wise father/motherly image of mr.K out of his head while raising him as a child. 🥀
 
 ### Children Reactions
