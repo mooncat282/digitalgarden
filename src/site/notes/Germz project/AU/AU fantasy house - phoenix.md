@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-17T20:46:22.349+07:00","updated":"2026-11-20T00:42:32.213+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-17T20:46:22.349+07:00","updated":"2026-11-20T00:43:39.231+07:00","dg-note-properties":{}}
 ---
 
 
@@ -602,7 +602,7 @@ ___
 - W was on stage performing but saw Mr.K talking to some girl. It made him enraged, and he sang even louder. The crowd was hyped as hell. Mr.K took Colette somewhere more private.  
 - Mr.K told Colette about their current situation and how it didn’t look bright; it was better if she didn’t meet W now.  
 - The show ended briefly, and W immediately ran to where they were. Colette said hi to him and then left first. W asked Mr.K who that was in a very strange voice.  
-- Mr.K told him it was his daughter. W was flabbergasted that Mr.K somehow already had a daughter despite how he looks (W didn’t even know Mr.K had seven other children).
+-  Mr.K told him it was his daughter. W was flabbergasted that Mr.K somehow already had a daughter despite how he looks (W didn’t even know Mr.K had seven other children).
 
 ### The Walk & Revelation
 
