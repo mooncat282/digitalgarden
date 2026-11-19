@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-17T20:46:22.349+07:00","updated":"2026-11-20T00:05:46.985+07:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/germz-project/au/au-fantasy-house-phoenix/","noteIcon":"","created":"2026-11-17T20:46:22.349+07:00","updated":"2026-11-20T00:15:58.680+07:00","dg-note-properties":{}}
 ---
 
 
